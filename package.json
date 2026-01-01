@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ianmcodes/simple_test_server#readme",
   "dependencies": {
     "commander": "^2.15.1",
-    "express": "^4.21.2"
+    "express": "^4.22.1"
   }
 }
